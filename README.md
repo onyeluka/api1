@@ -1,5 +1,5 @@
 
-DEMO URL: currencyconverter-pharmluka.vercel.app
+DEMO URL: https://currencyconverter-pharmluka.vercel.app
 
 # Getting Started with Create React App
 
